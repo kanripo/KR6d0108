@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:52.810864
+#+DATE: 2015-08-30 19:49:54.698199
 #+TITLE: 佛說法華三昧經
 #+PROPERTY: CBETA_ID T09n0269
 #+PROPERTY: ID KR6d0108
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0269
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6d0108_T_000-0285c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0108_T_001-0285c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.269¶
-
- 《佛說法華三昧經》一卷¶
+No. 269¶
+《佛說法華三昧經》一卷¶
 ¶
 宋涼州沙門智嚴譯¶
 
